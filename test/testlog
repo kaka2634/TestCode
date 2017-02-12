@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 2 liu liu 4096 Dec 16 00:33 ./
+drwxr-xr-x 8 liu liu 4096 Dec 15 20:27 ../
+-rwxrwxr-x 1 liu liu   31 Dec 14 22:48 firstshell.sh*
+-rw-rw-r-- 1 liu liu   41 Dec 15 16:40 testatom.cc
+-rw-rw-r-- 1 liu liu   20 Dec 15 16:39 testatom.py
+-rw-rw-r-- 1 liu liu    0 Dec 16 00:33 testlog
